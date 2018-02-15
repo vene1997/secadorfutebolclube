@@ -7,7 +7,7 @@
 
 Telas inicial, de registro e login feitas.
 
-### versão 0.2
+#### versão 0.2
 
 - Transição entre a tela de login -> registro (caso o usuário não tenha registro);
 - Tela de perfil do usuário já montada.
