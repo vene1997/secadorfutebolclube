@@ -27,6 +27,12 @@ angular.module('app.routes', [])
     controller: 'registroCtrl'
   })
 
+  .state('home', {
+    url: '/page4',
+    templateUrl: 'templates/home.html',
+    controller: 'homeCtrl'
+  })
+
 $urlRouterProvider.otherwise('/page1')
 
 
