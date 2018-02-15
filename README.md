@@ -1,11 +1,7 @@
 ![Banana](https://i.imgur.com/qlwPjgy.png)
 # O melhor time é o que joga contra o que eu odeio
 
-
-
-
-
-## Aplicativo para iOS e Android baseada no framework Ionic (em andamento)
+## Aplicativo para iOS e Android baseada em JavaScript, feito com o framework Ionic
 
 ### versão 0.1
 
