@@ -9,5 +9,5 @@
 
 ### versão 0.1
 
-Telas inicial, de registro e login feitas
+Telas inicial, de registro e login feitas.
 
